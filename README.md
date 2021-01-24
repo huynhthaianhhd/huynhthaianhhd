@@ -32,6 +32,9 @@
   <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="40" height="40"/> </a>
    <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
    <a href="https://nestjs.org" target="_blank"> <img src="https://pbs.twimg.com/card_img/1351846435071926273/eXGkDlPT?format=png&name=240x240" alt="typeorm" width="40" height="40"/> </a>
+ <a href="https://nestjs.org" target="_blank"> <img src="https://symbols.getvecta.com/stencil_73/124_ant-design-icon.553c3e5cfc.svg" alt="ant-design" width="40" height="40"/> </a>
+   
+   
   
 
 
