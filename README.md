@@ -36,8 +36,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="50" height="50"/> 
 <img src="https://pbs.twimg.com/card_img/1351846435071926273/eXGkDlPT?format=png&name=240x240" alt="typeorm" width="50" height="50"/> 
 </p>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="50" height="50"/> 
    
   **📫 How to reach me:**
 #### 
