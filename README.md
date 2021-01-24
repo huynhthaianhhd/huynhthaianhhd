@@ -27,6 +27,8 @@
 <img src="https://symbols.getvecta.com/stencil_73/124_ant-design-icon.553c3e5cfc.svg" alt="ant-design" width="50" height="50"/>
 </p>
 
+<br>
+
 <p style="margin-bottom: 30px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="50" height="50"/>
