@@ -16,6 +16,12 @@
 - 💬 Ask me about web development, functional programming and server.
 - ⚡ Fun fact: Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups.
 
+**📫 How to reach me:**
+#### 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thangnm93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thang-nguyen-minh/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minhthang0403@gmail.com)
+
 **👨🏻‍💻 Languages and tools**
 
 <p style="margin-bottom: 30px">
