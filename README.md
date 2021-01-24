@@ -9,12 +9,10 @@
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
-<br>
 **💼 About me:**
 - 🔭 I am currently a 4th year student majoring in faculty of Information of Technology at University of Science in Ho Chi Minh city. I'm very passionate and dedicated to my work. I'm a hardworking person and always try my best in order to enhance more experience. I am seeking for an FRONT-END/ BACK-END (fresher) position to learn more practical experiences and begin my career in a high-level professional environment.
 - 🌱 My way to becoming a FullStack Web Developer is still very far and I am trying my best to walk in that way.
 - ⚡ Fun fact: Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups.
-<br>
 **👨🏻‍💻 Languages and tools**
 <br>
 <p style="margin-bottom: 30px">
