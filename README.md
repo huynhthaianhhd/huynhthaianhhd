@@ -5,12 +5,16 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
-<h1 align="center">Hi 👋, I'm itgoyo</h1>
+<h1 align="center">Hi 👋, I'm Huynh Thai Anh</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
-**💼 Currently working as:** <a href="https://www.kms-technology.com/" target="_blank"><b>Looking for job ...</b></a>
+**💼 About me:**
+- 🔭 I’m currently working at [Clevver.io](https://www.clevver.io/) as a Senior PHP Developer with 5 years of experience in PHP, with good knowledge of Database Design, Design Pattern.
+- 🌱 I’m currently learning ReactJS and Python to become a Full Stack Developer
+- 💬 Ask me about web development, functional programming and server.
+- ⚡ Fun fact: Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups.
 
 **👨🏻‍💻 Languages and tools**
 
