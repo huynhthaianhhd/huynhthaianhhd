@@ -11,16 +11,9 @@
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
 **💼 About me:**
-- 🔭 I’m currently working at [Clevver.io](https://www.clevver.io/) as a Senior PHP Developer with 5 years of experience in PHP, with good knowledge of Database Design, Design Pattern.
-- 🌱 I’m currently learning ReactJS and Python to become a Full Stack Developer
-- 💬 Ask me about web development, functional programming and server.
+- 🔭 I am currently a 4th year student majoring in faculty of Information of Technology at University of Science in Ho Chi Minh city. I'm very passionate and dedicated to my work. I'm a hardworking person and always try my best in order to enhance more experience. I am seeking for an FRONT-END/ BACK-END (fresher) position to learn more practical experiences and begin my career in a high-level professional environment.
+- 🌱 My way to becoming a FullStack Web Developer is still very far and I am trying my best to walk in that way.
 - ⚡ Fun fact: Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups.
-
-**📫 How to reach me:**
-#### 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thangnm93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thang-nguyen-minh/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:minhthang0403@gmail.com)
 
 **👨🏻‍💻 Languages and tools**
 
@@ -47,16 +40,19 @@
 
 <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkin" width="50" height="50"/> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkin" width="50" height="50"/> </a>
   
  
  
-  <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="50" height="50"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="50" height="50"/> 
    
-   
-  </a>
+  
 
-   
+  **📫 How to reach me:**
+#### 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huynhthaianhhd/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huynhthaianhhd@gmail.com)
+
 
 
 
