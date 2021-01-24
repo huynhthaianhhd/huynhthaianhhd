@@ -1,6 +1,10 @@
 # Hey 👋🏽, I'm Huynh Thai Anh
 
-## Profile Views 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p>
+
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:huynhthaianhhd"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
