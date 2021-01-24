@@ -11,11 +11,13 @@
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
 **💼 About me:**
+
 - 🔭 I am currently a 4th year student majoring in faculty of Information of Technology at University of Science in Ho Chi Minh city. I'm very passionate and dedicated to my work. I'm a hardworking person and always try my best in order to enhance more experience. I am seeking for an FRONT-END/ BACK-END (fresher) position to learn more practical experiences and begin my career in a high-level professional environment.
 - 🌱 My way to becoming a FullStack Web Developer is still very far and I am trying my best to walk in that way.
 - ⚡ Fun fact: Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups.
 
 **👨🏻‍💻 Languages and tools**
+
 <p style="margin-top: 50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -27,7 +29,6 @@
 <img src="https://symbols.getvecta.com/stencil_73/124_ant-design-icon.553c3e5cfc.svg" alt="ant-design" width="50" height="50"/>
 </p>
 
-<br>
 <br>
 
 <p style="margin-bottom: 50px">
