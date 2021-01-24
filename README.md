@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
-**💼 Currently working as:** <a href="https://www.kms-technology.com/" target="_blank"><b>KMS Technology</b></a>
+**💼 Currently working as:** <a href="https://www.kms-technology.com/" target="_blank"><b>Looking for job ...</b></a>
 
 **👨🏻‍💻 Languages and tools**
 
@@ -31,7 +31,9 @@
  
   <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="40" height="40"/> </a>
    <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+   <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="typeorm" width="40" height="40"/> </a>
   
+
 
 
 
