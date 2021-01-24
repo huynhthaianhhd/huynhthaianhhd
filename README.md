@@ -1,7 +1,7 @@
 # Hey 👋🏽, I'm Huynh Thai Anh
 
 <p>
-  Visitor count:
+  Visitor count: <br>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:huynhthaianhhd"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
