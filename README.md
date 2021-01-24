@@ -37,17 +37,8 @@
 <img src="https://pbs.twimg.com/card_img/1351846435071926273/eXGkDlPT?format=png&name=240x240" alt="typeorm" width="50" height="50"/> 
 </p>
 
-
-<a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://nestjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="git" width="50" height="50"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkin" width="50" height="50"/> </a>
-  
- 
- 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="slack" width="50" height="50"/> 
    
-  
-
   **📫 How to reach me:**
 #### 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huynhthaianhhd/)
