@@ -1,16 +1,16 @@
 ### Hi there 👋
+## Hey 👋🏽, I'm Huynh Thai Anh
 
-<!--
-**huynhthaianhhd/huynhthaianhhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" />
 
-Here are some ideas to get you started:
+**💼 Currently working as:** <a href="https://www.kms-technology.com/" target="_blank"><b>KMS Technology</b></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**👨🏻‍💻 Languages and tools**
+
+
+
+**🏆 Stats**
+
+![Huynh Thai Anh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huynhthaianhhd&hide=["stars"]&show_icons=true)
+
+![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
